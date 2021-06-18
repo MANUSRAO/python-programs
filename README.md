@@ -16,3 +16,8 @@ This Python Project provides you motivation for your monday blues!! Yes this pro
   1. I have used Gmail SMTP here if you use different "from address" then search SMTP [ Your Email Service ] and paste that link mentioned inside the code
   2. If you are using Gmail, you may have to enable `Less Secure Apps Options` in your accounts section
   3. If you are using Yahoo mail, you may have to enable [`App Less Secure Login`](https://support.reolink.com/hc/en-us/articles/360004195474-How-to-Allow-Less-Secure-Apps-to-Access-Your-Yahoo-Mail)
+## 3. Automatic Birtday Wisher
+  This python project wishes your friends and relatives on their birthday automatically, and save your neck of relationship!!
+  ### Requirements
+  1. Atleast Python 3.7 or higher
+  2. For auto running this code you may require an account from [Python Anywhere](https://www.pythonanywhere.com/) This is required if you need to automate the task                 PS: You can signup for their free account 
