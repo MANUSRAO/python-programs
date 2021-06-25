@@ -21,3 +21,9 @@ This Python Project provides you motivation for your monday blues!! Yes this pro
   ### Requirements
   1. Atleast Python 3.7 or higher
   2. For auto running this code you may require an account from [Python Anywhere](https://www.pythonanywhere.com/) This is required if you need to automate the task                 PS: You can signup for their free account 
+## 3. Youtube Video Downloader
+This program lets you download youtube videos or just audio acording to your requirement
+  ### How to use
+  1. Just Clone on the repository on your system and run ``main.py`` file
+
+  [Check the program here](https://replit.com/@cloveCodes/Youtube-Video-Downloader?v=1)
